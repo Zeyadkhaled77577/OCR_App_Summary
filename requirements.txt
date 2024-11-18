@@ -1,0 +1,15 @@
+gradio
+llama-stack
+pytesseract
+opencv-python
+PyMuPDF
+python-docx
+openpyxl
+python-pptx
+transformers
+torch
+accelerate
+SpeechRecognition
+pydub
+tesseract-ocr -y
+tesseract-ocr-ara -y
